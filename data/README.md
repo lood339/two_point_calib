@@ -2,6 +2,9 @@
 This folder prepare training data from the soccer highlight dataset
 As a part of the implementation of "A Two-point Method for PTZ camera Calibration in Sports" (WACV2018)
 
+Add two random forests parameter files. 
+ptz_tree_param_highlights.txt: for highlights dataset
+ptz_tree_param_world_cup.txt: for World Cup dataset
 
 Dependences:
 1. vlfeat:https://github.com/vlfeat/vlfeat

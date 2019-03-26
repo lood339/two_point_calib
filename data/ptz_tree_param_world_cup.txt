@@ -1,0 +1,14 @@
+sampled_frame_num 15
+pp_x 640
+pp_y 360
+tree_num 5
+max_tree_depth 20
+max_balanced_depth 4
+max_sample_num 1000
+min_leaf_node 1
+min_split_node 1
+candidate_dim_num 6
+candidate_threshold_num 10
+min_split_node_std_dev 0.1
+verbose 0
+verbose_leaf 0
